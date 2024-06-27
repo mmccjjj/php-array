@@ -12,7 +12,9 @@
 
   <?php
 
-  phpinfo();
+  include 'script.php';
+
+ /*  phpinfo(); */
 
   ?>
 
